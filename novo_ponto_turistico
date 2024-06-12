@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Pontos Turísticos do Recife Antigo</title>
+</head>
+<body>
+    <h1>Pontos Turísticos do Recife Antigo</h1>
+    
+    <!-- Parque das Esculturas Francisco Brennand -->
+    <h2>Parque das Esculturas Francisco Brennand</h2>
+    <p>O Parque das Esculturas é uma instalação a céu aberto sobre o molhe do porto, composta por 90 obras do artista plástico Francisco Brennand, inaugurada em comemoração aos 500 anos do Descobrimento do Brasil[^1^][1].</p>
+    <!-- Substitua 'imagem_parque_brennand.jpg' pelo caminho da imagem real -->
+    <img src="./img/parque brennand.jpeg" alt="Parque das Esculturas Francisco Brennand">
+    
+    <!-- Museu e Centro Cultural Cais do Sertão -->
+    <h2>Museu e Centro Cultural Cais do Sertão</h2>
+    <p>O Museu e Centro Cultural Cais do Sertão homenageia toda a cultura nordestina, ilustrando de diversos modos a obra de Luiz Gonzaga[^1^][1].</p>
+    <!-- Substitua 'imagem_cais_sertao.jpg' pelo caminho da imagem real -->
+    <img src="./img/Centro-Cultural-Cais-do-Sertão_Francisco-Andrade-2.jpg" alt="Museu e Centro Cultural Cais do Sertão">
+    
+</body>
+</html>
