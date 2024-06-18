@@ -5,8 +5,8 @@ body {
     padding: 0;
 }
 header {
-    background-color: #f7ff04;
-    color: #dc1616;
+    background-color: #6810dc;
+    color: #fff;
     text-align: center;
     padding: 10px;
 }
@@ -16,12 +16,15 @@ main {
     padding: 20px;
 }
 footer {
-    background-color: #f7ff04;
-    color: #d51414;
+    background-color: #6810dc;
+    color: #fff;
     text-align: center;
-    padding: 10px;
+    padding: 150px;
 }
 img {
     max-width: 100%;
     height: auto;
+}
+a{
+    color: white;
 }
